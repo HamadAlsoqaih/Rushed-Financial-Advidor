@@ -1,1 +1,5 @@
-data
+[
+  { "date": "2025-09-01", "amount": -52.75, "category": "Food",     "desc": "Groceries" },
+  { "date": "2025-09-03", "amount": 2000,    "category": "Income",   "desc": "Allowance/Salary" },
+  { "date": "2025-09-04", "amount": -120,    "category": "Transport","desc": "Fuel" }
+]
