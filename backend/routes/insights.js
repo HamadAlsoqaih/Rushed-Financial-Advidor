@@ -1,6 +1,6 @@
 import { Router } from "express";
-import transactions from "../data/transactions.json" assert { type: "json" };
-import budget from "../data/budget.json" assert { type: "json" };
+import transactions from "../data/transactions.json" with { type: "json" };
+import budget from "../data/budget.json" with { type: "json" };
 const router = Router();
 // GET /api/insights
 // Static summary for demo (you can replace with smarter logic later)
