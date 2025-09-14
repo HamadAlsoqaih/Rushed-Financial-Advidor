@@ -1,5 +1,5 @@
 import { Router } from "express";
-import budget from "../data/budget.json" assert { type: "json" };
+import budget from "../data/budget.json" with { type: "json" };
 const router = Router();
 // GET /api/budget
 // Returns the full budget snapshot
