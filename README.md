@@ -23,10 +23,10 @@ Advisor: **Dr. Suliman Fati**
 
 ---
 
-## 🚀 How to Run  
+## 🚀 How to Run 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/HamadAlsoqaih/Rushd-Financial-Advisor.git
+   git clone https://github.com/HamadAlsoqaih/Rushd-Financial-Advisor
    cd Rushd-Financial-Advisor
    ```
 2. Install backend dependencies:  
