@@ -1,1 +1,8 @@
-
+{
+  "month": "2025-09",
+  "categories": [
+    { "name": "Food",      "budget": 800, "spent": 240 },
+    { "name": "Transport", "budget": 500, "spent": 120 },
+    { "name": "Savings",   "budget": 600, "spent": 0 }
+  ]
+}
