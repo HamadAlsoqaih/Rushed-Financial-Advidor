@@ -26,8 +26,8 @@ Advisor: **Dr. Suliman Fati**
 ## 🚀 How to Run 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/HamadAlsoqaih/Rushed-Financial-Advidor
-   cd Rushed-Financial-Advidor(location of the clone)
+   git clone https://github.com/HamadAlsoqaih/Rushd-Financial-Advisor
+   cd Rushd-Financial-Advisor(location of the clone)
    ```
 2. Install backend dependencies:  
    ```bash
